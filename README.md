@@ -13,3 +13,5 @@ A website dedicated to selling digital copies of my photographs. Key features in
 - **Automation**: Automatically generates emails with download links upon payment
 - **Easy Updates**: Streamlined process for adding new photos via JSON updates, thumbnails, and high-resolution images uploaded to cloud storage.
 
+## Kaggle Titanic beginners tutorial  
+Score .78 with Logistic regression.  Tried Random Forest, XGBoost and stacked models.  Juypter notebooks uploaded.
