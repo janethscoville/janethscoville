@@ -83,6 +83,15 @@ challenge. Explored and compared four model types:
 Full Jupyter notebooks uploaded with feature engineering, 
 model comparison, and results analysis.
 
+### Budget Tracker PWA
+🔗 [biesehive.github.io/budget-tracker](https://biesehive.github.io/budget-tracker)  
+`JavaScript · IndexedDB · Chart.js · Service Worker · PWA`
+
+Offline-first personal finance app installable on mobile as a PWA. 
+Features expense categories, daily spend calculations, 3-month trend 
+charts, and full offline support via service worker and IndexedDB. 
+In daily personal use on iOS. v1.0.6.5
+
 ---
 
 ## 💼 Professional Highlight
