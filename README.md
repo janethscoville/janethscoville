@@ -1,23 +1,36 @@
-# Welcome
+# Hi, I'm Janeth Scoville 👋
 
-This is my portfolio of ongoing and completed projects.  Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/jan-scoville-91452076).
+Database Developer & Full-Stack Builder with 9+ years at the Colorado 
+Department of Transportation designing SQL Server databases, building C# 
+ETL pipelines, and automating cross-department workflows. I also build 
+and ship my own production web applications.
 
-## GetYourDue (https://www.workerbiese.com) (Completed 2/2026)
-- **Hosting**: None, Website CloudFlare
-- **Technology**: Built with React + Vite and Node.js
-- **Automation**: Connects to QuickBooks Online (QBO) and pulls a list of past due invoices; 30-60-90+.  Presents list for user signoff and then emails clients a past due reminder.  Tags Clients on QBO to not be emailed again for x days.  
-- **Customizable Emails, Logistics**: Email Body, Days Past Due, Severity Levels of messages all customizable.  Clients can be tagged as VIP to never be emailed.  
+📍 Colorado, USA &nbsp;|&nbsp; Open to Database Developer roles in Spain 
+or 100% Remote  
+🔗 [LinkedIn](your-linkedin-url) &nbsp;|&nbsp; 
+[janebiese.com](https://janebiese.com) &nbsp;|&nbsp; 
+[workerbiese.com](https://workerbiese.com)
 
-## [JaneBiese.com](http://www.janebiese.com) (Completed 9/2024)
+---
 
-A website dedicated to selling digital copies of my photographs. Key features include:
+## 🛠️ Tech Stack
 
-- **Hosting**: Linode server
-- **Technology**: Built with React + Vite and Node.js
-- **Data Management**: Utilizes JSON for data storage and cloud storage for digital downloads
-- **Payment Processing**: Integrated with Stripe for secure credit card transactions
-- **Automation**: Automatically generates emails with download links upon payment
-- **Easy Updates**: Streamlined process for adding new photos via JSON updates, thumbnails, and high-resolution images uploaded to cloud storage.
+**Languages:** T-SQL · C# · JavaScript · Node.js · Python · VBA  
+**Frontend:** React · Vite · HTML/CSS  
+**Databases:** SQL Server · Oracle · PostgreSQL · MS Access  
+**APIs & Integrations:** Stripe · QuickBooks Online (OAuth) · 
+Backblaze B2 · Claude AI  
+**Tools:** Git · Portainer · SSMS · Visual Studio · pgAdmin  
 
-## Kaggle Titanic beginners tutorial  (Completed 11/2024)
-Score .78 with Logistic regression.  Tried Random Forest, XGBoost and stacked models.  Juypter notebooks uploaded.
+---
+
+## 🚀 Projects
+
+### GetYourDue — Accounts Receivable Automation
+🔗 [workerbiese.com](https://www.workerbiese.com) &nbsp;|&nbsp; 
+`Completed Feb 2026`  
+**Stack:** React · Vite · Node.js · QuickBooks Online API · 
+OAuth 2.0 · Cloudflare
+
+A SaaS tool that connects to QuickBooks Online via OAuth, pulls 
+past-due invoices (30/60/90+ d
