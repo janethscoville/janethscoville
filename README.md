@@ -20,7 +20,7 @@ or 100% Remote
 **Databases:** SQL Server · Oracle · PostgreSQL · MS Access  
 **APIs & Integrations:** Stripe · QuickBooks Online (OAuth) · 
 Backblaze B2 · Claude AI  
-**Tools:** Git · Portainer · SSMS · Visual Studio · pgAdmin  
+**Tools:** Git · Portainer/Docker · SSMS · Visual Studio · pgAdmin  
 
 ---
 
