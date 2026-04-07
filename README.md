@@ -63,7 +63,7 @@ photography — no Shopify, no WordPress, built from scratch.
   immediately after purchase
 - JSON-driven inventory system — adding new products requires only 
   a JSON update plus thumbnail and hi-res image upload
-- AI-powered chatbot powered by Claude API (in development)
+- AI-powered chatbot powered by Groq API (in development)
 
 ---
 
