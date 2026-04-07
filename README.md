@@ -50,10 +50,10 @@ email collection campaigns.
 🔗 [janebiese.com](https://janebiese.com) &nbsp;|&nbsp; 
 `Completed Sep 2024`  
 **Stack:** React · Vite · Node.js · Stripe · Backblaze B2 · 
-Linode · Claude AI (chatbot in development)
+Linode · Groq AI (chatbot in development)
 
 A fully custom-built e-commerce platform for selling digital 
-photography — no Shopify, no WordPress, built from scratch.
+photography (shot and GIMP-edited by me) — no Shopify, no WordPress, built from scratch.
 
 - Stripe integration handles payment processing and webhook 
   confirmation
