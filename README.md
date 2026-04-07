@@ -7,7 +7,7 @@ and ship my own production web applications.
 
 📍 Colorado, USA &nbsp;|&nbsp; Open to Database Developer roles in Spain 
 or 100% Remote  
-🔗 [LinkedIn](your-linkedin-url) &nbsp;|&nbsp; 
+🔗 [LinkedIn](https://www.linkedin.com/in/janethscoville/) &nbsp;|&nbsp; 
 [janebiese.com](https://janebiese.com) &nbsp;|&nbsp; 
 [workerbiese.com](https://workerbiese.com)
 
